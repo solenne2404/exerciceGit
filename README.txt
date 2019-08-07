@@ -9,3 +9,4 @@ Vous devez créer un repository Git simple contenant :
     Au moins 2 autres fichiers de votre choix (ils peuvent contenir des scripts de code, du texte sur un projet personnel...);
     Au moins 4 commits distincts montrant l’ajout puis la modification de certains fichiers.
 
+et une petite ligne de plus, pour le commit.
